@@ -14,21 +14,6 @@ Uma aplicação simples para gerenciar e sortear amigos para um evento de amigo 
 - **CSS**: Estilização da aplicação (arquivo externo `style.css`).
 - **JavaScript**: Lógica para adicionar amigos, sortear e manipular o DOM.
 
-## Como usar
+## Acesse a aplicação
 
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/Lucas-p00/ONE-desafio-amigo-secreto.git
-   ```
-
-2. Navegue até o diretório do projeto:
-
-   ```bash
-   cd projeto-amigo-secreto
-   ```
-
-3. Abra o arquivo `index.html` no navegador:
-   ```bash
-   start index.html
-   ```
+**Você pode acessar a aplicação pelo [link](https://lucas-p00.github.io/ONE-desafio-amigo-secreto/).**
